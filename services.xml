@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-03-09 08:00">
+  <shop>
+    <name>Verim.by</name>
+    <company>Verim.by — уход за захоронениями и ремонт памятников</company>
+    <url>https://www.verim.by/</url>
+    <picture>https://blogger.googleusercontent.com/img/a/AVvXsEh8nETm1xLsWcTjGRozd2mJ9wsgRn2qBn6NcK1SWso1KZ_7btMdIJrqONt6-r2zsq_iR6nXcHCcoXHNgI5NA0Xk5wbWlAZeyNmo9R-MoqDJy003uXRQdWnETNzTJGjZOfaEdkKR-r-RKI65M-eQXFmjHMYtIU4dJ7POkcLZlzrXZ5ClUjTNqQvcQiMFOiY=s1300</picture>
+    <description>Уборка могил, поиск могил, выравнивание и реставрация памятников в Минске и по Беларуси</description>
+
+    <currencies>
+      <currency id="BYN" rate="1"/>
+    </currencies>
+
+    <categories>
+      <category id="1">Исполнитель</category>
+      <category id="11" parentId="1">Ремонт и строительство</category>
+      <category id="17" parentId="1">Хозяйство и уборка</category>
+      <category id="29" parentId="1">Разное</category>
+    </categories>
+
+    <sets>
+      <set id="s1">
+        <name>Услуги Verim.by — Минск и Беларусь</name>
+        <url>https://www.verim.by/</url>
+      </set>
+    </sets>
+
+    <offers>
+
+      <!-- Уборка могил -->
+      <offer id="verim-uborka-1">
+        <name>Verim.by — уборка могил</name>
+        <url>https://www.verim.by/p/blog-page_4697.html</url>
+        <price from="true">120</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>17</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/a/AVvXsEh8nETm1xLsWcTjGRozd2mJ9wsgRn2qBn6NcK1SWso1KZ_7btMdIJrqONt6-r2zsq_iR6nXcHCcoXHNgI5NA0Xk5wbWlAZeyNmo9R-MoqDJy003uXRQdWnETNzTJGjZOfaEdkKR-r-RKI65M-eQXFmjHMYtIU4dJ7POkcLZlzrXZ5ClUjTNqQvcQiMFOiY=s1300?img=uborka</picture>
+        <description>Разовая и регулярная уборка могилы с фотоотчётом</description>
+        <sales_notes>Цена зависит от объёма работ</sales_notes>
+
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">27</param>
+        <param name="Годы опыта">16</param>
+        <param name="Регион">Беларусь, Минск (выезд: Молодечно, Вилейка, Сморгонь, Ошмяны, Островец, Воложин, Мядель)</param>
+        <param name="Конверсия">100</param>
+
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">true</param>
+      </offer>
+
+      <!-- Поиск могил -->
+      <offer id="verim-poisk-1">
+        <name>Verim.by — поиск могил</name>
+        <url>https://www.verim.by/p/blog-page_7897.html</url>
+        <price from="true">270</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>29</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/a/AVvXsEh8nETm1xLsWcTjGRozd2mJ9wsgRn2qBn6NcK1SWso1KZ_7btMdIJrqONt6-r2zsq_iR6nXcHCcoXHNgI5NA0Xk5wbWlAZeyNmo9R-MoqDJy003uXRQdWnETNzTJGjZOfaEdkKR-r-RKI65M-eQXFmjHMYtIU4dJ7POkcLZlzrXZ5ClUjTNqQvcQiMFOiY=s1300?img=poisk</picture>
+        <description>Поиск места захоронения (архив + выезд) + фото и GPS</description>
+        <sales_notes>Стоимость зависит от сложности запроса</sales_notes>
+
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">27</param>
+        <param name="Годы опыта">16</param>
+        <param name="Регион">Беларусь (Минск и регионы)</param>
+        <param name="Конверсия">95</param>
+
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">true</param>
+      </offer>
+
+      <!-- Выравнивание памятника -->
+      <offer id="verim-vyravn-1">
+        <name>Verim.by — выравнивание памятников</name>
+        <url>https://www.verim.by/p/blog-page.html</url>
+        <price from="true">260</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>11</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/a/AVvXsEh8nETm1xLsWcTjGRozd2mJ9wsgRn2qBn6NcK1SWso1KZ_7btMdIJrqONt6-r2zsq_iR6nXcHCcoXHNgI5NA0Xk5wbWlAZeyNmo9R-MoqDJy003uXRQdWnETNzTJGjZOfaEdkKR-r-RKI65M-eQXFmjHMYtIU4dJ7POkcLZlzrXZ5ClUjTNqQvcQiMFOiY=s1300?img=vyravn</picture>
+        <description>Выравнивание просевших памятников с укреплением основания</description>
+        <sales_notes>Цена зависит от состояния основания</sales_notes>
+
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">27</param>
+        <param name="Годы опыта">16</param>
+        <param name="Регион">Беларусь, Минск</param>
+        <param name="Конверсия">90</param>
+
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">true</param>
+      </offer>
+
+      <!-- Обновление букв и портретов -->
+      <offer id="verim-bukvy-1">
+        <name>Verim.by — обновление букв и портретов</name>
+        <url>https://www.verim.by/p/blog-page_20.html</url>
+        <price from="true">130</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>11</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/a/AVvXsEh8nETm1xLsWcTjGRozd2mJ9wsgRn2qBn6NcK1SWso1KZ_7btMdIJrqONt6-r2zsq_iR6nXcHCcoXHNgI5NA0Xk5wbWlAZeyNmo9R-MoqDJy003uXRQdWnETNzTJGjZOfaEdkKR-r-RKI65M-eQXFmjHMYtIU4dJ7POkcLZlzrXZ5ClUjTNqQvcQiMFOiY=s1300?img=bukvy</picture>
+        <description>Покраска букв (золото/серебро/эмаль), обновление портретов</description>
+        <sales_notes>Цена зависит от объёма и техники</sales_notes>
+
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">27</param>
+        <param name="Годы опыта">16</param>
+        <param name="Регион">Беларусь, Минск</param>
+        <param name="Конверсия">85</param>
+
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">true</param>
+      </offer>
+
+      <!-- Реставрация / ремонт памятников -->
+      <offer id="verim-restavr-1">
+        <name>Verim.by — реставрация памятников</name>
+        <url>https://www.verim.by/p/blog-page_2.html</url>
+        <price from="true">260</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>11</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/a/AVvXsEh8nETm1xLsWcTjGRozd2mJ9wsgRn2qBn6NcK1SWso1KZ_7btMdIJrqONt6-r2zsq_iR6nXcHCcoXHNgI5NA0Xk5wbWlAZeyNmo9R-MoqDJy003uXRQdWnETNzTJGjZOfaEdkKR-r-RKI65M-eQXFmjHMYtIU4dJ7POkcLZlzrXZ5ClUjTNqQvcQiMFOiY=s1300?img=restavr</picture>
+        <description>Ремонт и реставрация памятников, укрепление основания, восстановление</description>
+        <sales_notes>Цена зависит от объёма работ</sales_notes>
+
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">27</param>
+        <param name="Годы опыта">16</param>
+        <param name="Регион">Беларусь, Минск</param>
+        <param name="Конверсия">80</param>
+
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">true</param>
+      </offer>
+
+      <!-- Покраска ограды -->
+      <offer id="verim-ograda-1">
+        <name>Verim.by — покраска ограды</name>
+        <url>https://www.verim.by/2026/02/blog-post.html</url>
+        <price from="true">35</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>11</categoryId>
+        <set-ids>s1</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/a/AVvXsEh8nETm1xLsWcTjGRozd2mJ9wsgRn2qBn6NcK1SWso1KZ_7btMdIJrqONt6-r2zsq_iR6nXcHCcoXHNgI5NA0Xk5wbWlAZeyNmo9R-MoqDJy003uXRQdWnETNzTJGjZOfaEdkKR-r-RKI65M-eQXFmjHMYtIU4dJ7POkcLZlzrXZ5ClUjTNqQvcQiMFOiY=s1300?img=ograda</picture>
+        <description>Покраска металлической ограды на кладбище (с подготовкой и антикоррозией)</description>
+        <sales_notes>Цена за 1 м.п.</sales_notes>
+
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">27</param>
+        <param name="Годы опыта">16</param>
+        <param name="Регион">Беларусь, Минск</param>
+        <param name="Конверсия">75</param>
+
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">true</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
