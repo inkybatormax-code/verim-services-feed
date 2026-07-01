@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-07-01 00:00">
+  <shop>
+    <name>Verim.by</name>
+    <company>Стреж Максим Львович</company>
+    <url>https://www.verim.by/</url>
+    <currencies>
+      <currency id="BYN" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Исполнитель</category>
+      <category id="17" parentId="1">Хозяйство и уборка</category>
+      <category id="29" parentId="1">Разное</category>
+    </categories>
+    <sets>
+      <set id="s_uborka_mogil_minsk">
+        <name>Уборка могил в Минске</name>
+        <url>https://www.verim.by/p/blog-page_4697.html</url>
+      </set>
+      <set id="s_remont_restavraciya_pamyatnikov">
+        <name>Ремонт и реставрация памятников</name>
+        <url>https://www.verim.by/p/blog-page_2.html</url>
+      </set>
+      <set id="s_vyravnivanie_pamyatnikov">
+        <name>Выравнивание памятников</name>
+        <url>https://www.verim.by/p/blog-page.html</url>
+      </set>
+      <set id="s_obnovlenie_bukv_portretov">
+        <name>Обновление букв и портретов на памятнике</name>
+        <url>https://www.verim.by/p/blog-page_20.html</url>
+      </set>
+      <set id="s_pokraska_ograd">
+        <name>Покраска оград на кладбище</name>
+        <url>https://www.verim.by/p/pokraska-ograd-na-kladbishche.html</url>
+      </set>
+      <set id="s_poisk_mogil">
+        <name>Поиск могил и мест захоронения</name>
+        <url>https://www.verim.by/p/blog-page_7897.html</url>
+      </set>
+    </sets>
+    <offers>
+      <offer id="verim_uborka_mogil_minsk">
+        <name>Verim.by — уборка могил в Минске</name>
+        <url>https://www.verim.by/p/blog-page_4697.html</url>
+        <price from="true">30</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>17</categoryId>
+        <set-ids>s_uborka_mogil_minsk</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/a/AVvXsEih70b2SHxsZj_42vc3Gu0NU5LF6y5IkOAnDRrM2wLyDCIXON81Ur4nkrv1wqxOpazDC9V1UMbZfOuRdnqA_gFiWkAV0teV3Xlfc2-ZPsAPlfhs1F4r6R0Hiy3d1ro5nKvvQlnilehH89wzRcG2iNTAD0LCkeSY3suDJiJvcEnREvJG2ptMaEkcAea-Evg=s1345</picture>
+        <description>Уборка могил, уход за захоронениями, удаление сорняков, мойка памятника и плитки, очистка от мха и налета в Минске. Дистанционный заказ, фотоотчет до и после.</description>
+        <sales_notes>Цена от 30 BYN. Точная стоимость после оценки фото участка.</sales_notes>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">5</param>
+        <param name="Годы опыта">5</param>
+        <param name="Регион">Минск, Минская область, Беларусь</param>
+        <param name="Конверсия">100</param>
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на создание заказа">https://www.verim.by/p/blog-page_7618.html</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+        <param name="Исполнитель проверен">true</param>
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">true</param>
+        <param name="Об исполнителе">Verim.by выполняет уборку могил, уход за захоронениями и восстановительные работы на кладбищах Минска и Беларуси. Возможен дистанционный заказ с фотоотчетом.</param>
+        <param name="Отзыв на исполнителя - 1" unit="5.0">Заказывали уборку могилы в Минске. Работа выполнена аккуратно, прислали фотоотчет.</param>
+        <param name="Другая услуга исполнителя - 1">Ремонт и реставрация памятников</param>
+        <param name="Другая услуга исполнителя - 2">Покраска оград</param>
+      </offer>
+      <offer id="verim_remont_restavraciya_pamyatnikov">
+        <name>Verim.by — ремонт и реставрация памятников</name>
+        <url>https://www.verim.by/p/blog-page_2.html</url>
+        <price from="true">80</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>29</categoryId>
+        <set-ids>s_remont_restavraciya_pamyatnikov</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_bNHJFfxZomOh1IrcSZNiGC5pnTKlGTpojbHzTgNgfG6xlsdFgLiQFs-azajvsu5vlIuVSphBO6YfL7O-dlpHyse9lEe77nIvndRWVi_xK5I7DVlNJObvM3quePe4z_5C2R6oycuxGlD3W-76GjRa270oKgQZryl43tqaF8D-dE9VOXCW2oSoWGtE/w640-h320-rw/Real%20Estate%20Banner%20(3).jpg</picture>
+        <description>Ремонт и реставрация памятников в Минске и Беларуси: трещины, сколы, швы, основание, очистка камня, восстановление внешнего вида, фотоотчет.</description>
+        <sales_notes>Цена от 80 BYN. Стоимость зависит от состояния памятника и объема работ.</sales_notes>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">5</param>
+        <param name="Годы опыта">5</param>
+        <param name="Регион">Минск, Минская область, Беларусь</param>
+        <param name="Конверсия">95</param>
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на создание заказа">https://www.verim.by/p/blog-page_7618.html</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+        <param name="Исполнитель проверен">true</param>
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">true</param>
+        <param name="Об исполнителе">Verim.by помогает восстановить памятник, устранить повреждения, очистить камень и привести место захоронения в достойный вид.</param>
+        <param name="Отзыв на исполнителя - 1" unit="5.0">Заказывали реставрацию старого памятника. Работы сделали качественно, фотоотчет подробный.</param>
+        <param name="Другая услуга исполнителя - 1">Выравнивание памятников</param>
+        <param name="Другая услуга исполнителя - 2">Обновление букв и портретов</param>
+      </offer>
+      <offer id="verim_vyravnivanie_pamyatnikov">
+        <name>Verim.by — выравнивание памятников</name>
+        <url>https://www.verim.by/p/blog-page.html</url>
+        <price from="true">120</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>29</categoryId>
+        <set-ids>s_vyravnivanie_pamyatnikov</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja8u7f_6EUxCIVOorifWijHPNQbNDN_DznfLiveQoqHFKh_oQAebAMiTefUPNCgGHsKs4wN0NDFmp_fo4eU3j9ODE23_VwA4k0gUx1hJm09uHayChHx2KbVwEDqf9bunzDCfGhrGhpc1OjVFZwNR-TeHW4dK2sb7-6TgcW666r79Rr20FmIT_0EfeaE7o/w800-h800-rw/Minimal%20Square%20Photo%20Collage%20Photography%20Instagram%20Post%20(4).png</picture>
+        <description>Выравнивание наклонившихся памятников, устранение просадки, укрепление основания, фиксация стелы и герметизация швов на кладбищах Минска и Беларуси.</description>
+        <sales_notes>Цена от 120 BYN. Точная оценка после фото или осмотра.</sales_notes>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">5</param>
+        <param name="Годы опыта">5</param>
+        <param name="Регион">Минск, Минская область, Беларусь</param>
+        <param name="Конверсия">90</param>
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на создание заказа">https://www.verim.by/p/blog-page_7618.html</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+        <param name="Исполнитель проверен">true</param>
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">true</param>
+        <param name="Об исполнителе">Verim.by выполняет техническую диагностику и выравнивание памятников с сохранением расположения и аккуратным отношением к мемориалу.</param>
+        <param name="Отзыв на исполнителя - 1" unit="5.0">Памятник выровняли аккуратно, ничего не повредили, результат показали на фото.</param>
+        <param name="Другая услуга исполнителя - 1">Ремонт основания памятника</param>
+        <param name="Другая услуга исполнителя - 2">Герметизация швов</param>
+      </offer>
+      <offer id="verim_obnovlenie_bukv_portretov">
+        <name>Verim.by — обновление букв и портретов</name>
+        <url>https://www.verim.by/p/blog-page_20.html</url>
+        <price from="true">40</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>29</categoryId>
+        <set-ids>s_obnovlenie_bukv_portretov</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPbOw2XqOqzpScqjMd8OpGd79y6PksZy1HY2nGU8E4DoRNsf-Ey5UwhWZ5STtlKZTzJWVdurj7RWcHRGBXzi2z04NNgVkyOBkdxkKkfAv-KOhWfNc6JI3vfbNmowH9tHU5WdHXY40IwUnbJj1e3nB3-Dbwt6MSMDFi156HhMaBBMM6TAoO-hRhYfa4xy0/w800-h800-rw/Brown%20Neutral%20Minimal%20News%20Instagram%20Post%20(1).png</picture>
+        <description>Обновление букв, дат, надписей, эпитафий, портретов и медальонов на памятниках. Покраска букв золотом, серебром, белым или черным цветом.</description>
+        <sales_notes>Цена от 40 BYN. Точная стоимость зависит от объема текста и состояния памятника.</sales_notes>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">5</param>
+        <param name="Годы опыта">5</param>
+        <param name="Регион">Минск, Минская область, Беларусь</param>
+        <param name="Конверсия">92</param>
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на создание заказа">https://www.verim.by/p/blog-page_7618.html</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+        <param name="Исполнитель проверен">true</param>
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">false</param>
+        <param name="Об исполнителе">Verim.by восстанавливает читаемость надписей и аккуратный вид портретов на гранитных, мраморных и бетонных памятниках.</param>
+        <param name="Отзыв на исполнителя - 1" unit="5.0">Обновили буквы и портрет на памятнике, стало намного аккуратнее.</param>
+        <param name="Другая услуга исполнителя - 1">Очистка памятника</param>
+        <param name="Другая услуга исполнителя - 2">Уборка могилы после работ</param>
+      </offer>
+      <offer id="verim_pokraska_ograd">
+        <name>Verim.by — покраска оград на кладбище</name>
+        <url>https://www.verim.by/p/pokraska-ograd-na-kladbishche.html</url>
+        <price from="true">60</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>29</categoryId>
+        <set-ids>s_pokraska_ograd</set-ids>
+        <picture>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipGCApSv93jwSTw12XPaQ6N4DZEpujq2jjhNMeH9HtmOgVhsNWyC2J4vuOQ13u4yPMb1MjH-n9NzVVeavs-kAC9HFJMowG4NnjMr0lkZ99i7xQnKhuHDIq8fYExjIRsqkpCdiPsGuhJaVssGBfs2oZz-k8misudbiwbvmo9-BkNrGXKfzdpj96CNAp/w640-h230-rw/head.jpg</picture>
+        <description>Покраска металлических оград на кладбище: очистка от ржавчины, подготовка поверхности, грунтовка, окрашивание, аккуратный вид участка.</description>
+        <sales_notes>Цена от 60 BYN. Стоимость зависит от размера и состояния ограды.</sales_notes>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">5</param>
+        <param name="Годы опыта">5</param>
+        <param name="Регион">Минск, Минская область, Беларусь</param>
+        <param name="Конверсия">88</param>
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на создание заказа">https://www.verim.by/p/blog-page_7618.html</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+        <param name="Исполнитель проверен">true</param>
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">true</param>
+        <param name="Об исполнителе">Verim.by выполняет очистку, грунтовку и покраску оград на кладбищах, совмещая работы с уборкой и уходом за участком.</param>
+        <param name="Отзыв на исполнителя - 1" unit="5.0">Ограду зачистили и покрасили, участок стал выглядеть гораздо лучше.</param>
+        <param name="Другая услуга исполнителя - 1">Уборка могилы</param>
+        <param name="Другая услуга исполнителя - 2">Ремонт памятника</param>
+      </offer>
+      <offer id="verim_poisk_mogil">
+        <name>Verim.by — поиск могил и захоронений</name>
+        <url>https://www.verim.by/p/blog-page_7897.html</url>
+        <price from="true">50</price>
+        <currencyId>BYN</currencyId>
+        <categoryId>29</categoryId>
+        <set-ids>s_poisk_mogil</set-ids>
+        <picture>https://www.verim.by/favicon.ico</picture>
+        <description>Поиск могил и мест захоронения в Беларуси по данным кладбища, фото, фамилии, ориентиру или архивной информации. Фото, координаты и помощь с уходом.</description>
+        <sales_notes>Цена от 50 BYN. Стоимость зависит от исходных данных и сложности поиска.</sales_notes>
+        <param name="Рейтинг">5.0</param>
+        <param name="Число отзывов">5</param>
+        <param name="Годы опыта">5</param>
+        <param name="Регион">Минск, Минская область, Беларусь</param>
+        <param name="Конверсия">86</param>
+        <param name="Ссылка на телефон">tel:+375293887408</param>
+        <param name="Ссылка на чат">https://wa.me/375293887408</param>
+        <param name="Ссылка на создание заказа">https://www.verim.by/p/blog-page_7618.html</param>
+        <param name="Ссылка на профиль исполнителя">https://www.verim.by/</param>
+        <param name="Исполнитель проверен">true</param>
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Бригада">false</param>
+        <param name="Об исполнителе">Verim.by помогает найти место захоронения и после нахождения может выполнить уборку, уход, возложение цветов или реставрационные работы.</param>
+        <param name="Отзыв на исполнителя - 1" unit="5.0">Помогли найти могилу и прислали фото с координатами. Спасибо за помощь.</param>
+        <param name="Другая услуга исполнителя - 1">Уборка могилы после поиска</param>
+        <param name="Другая услуга исполнителя - 2">Возложение цветов</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
